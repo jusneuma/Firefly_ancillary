@@ -6,6 +6,6 @@ python plot_maps_vac.py [plate] [ifu]
 python plot_profiles_vac.py [plate] [ifu]
 ```
 
-on the commandline. Replace [plate] and [ifu] with according numbers of the datacube that you want to plot.
+on the commandline. Replace [plate] and [ifu] with the numbers of the datacube that you want to plot.
 
 By default, the scripts use the 'miles' version of the VAC, this can be changed in the scripts.
